@@ -1,29 +1,27 @@
-Ibrohim Mirzamukhamedov
-Junior Frontend Developer
+IBROHIM MIRZAMUKHAMEDOV
+Contacts
+Location: TASHKENT, UZBEKISTAN
+Phone: +998 90 9187094
+Email: mirzamuhamedovi@gmail.com
 
-Contact information:
-Phone: +998 90 0477663
-E-mail: mirzamuhamedovi@gmail.com
-Telegram: @hgy12dghero
-
-
-About Myself:
-My name is Ibrohim . I am student at ITPU . I am junior software developer . I am studying now at rs school
-
+About Me
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 
 Skills:
-HTML5, CSS3
-JavaScript Basics
-Git, GitHub
-VS Code, IntelliJ IDEA
+
+HTML
+CSS/Bootstrap
 
 
-Courses:
-HTML and CSS Tutorials on the w3schools 
-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-Languages:
-Uzbek - native
-Russian - Intermediate
-English - Intermediate
 
+Study and courses:
+ITPU
+English course
+Python hub studio 
+
+Languages :
+Uzbek
+English
+Russian
