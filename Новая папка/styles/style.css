@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    box-shadow: 10px 10px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(1);
+    
+
+}
+.left-space {
+    grid-column: 1/4;
+    background-color: aquamarine;
+
+}
+
+.container {
+    grid-column: 4/8;
+}
+
+.right-space {
+    grid-column: 8/13;
+    background-color: aquamarine;
+
+}
+
+/*nnn...........*/
+
+.s-card{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.853);
+    padding-top: 40px;
+    padding-inline: 280px;
+    padding-bottom: 40px;
+}
+.s-card img{
+    width: 150px;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-left: 3px;
+}
+.h1style{
+    color: white;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+/*.......................*/
+.about {
+    display: block;
+}
+
+.htmlimg {
+    width: 25px;
+    margin-right: 15px;
+}
+/*............*/
+.skills {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.flag {
+    width: 25px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#u13{
+    display: flex;
+}
+
+.contactphoto {
+
+    width: 25px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+flex top{
+    width: 10%;
+}
+.flex content {
+    width: 80%;
+}
+.flex bottom{
+    width: 10%;
+}
+.bottom p{
+    color: aquamarine;
+    background-color: aquamarine;
+}
+.top p{
+    color: aquamarine;
+    background-color: aquamarine;
+}
+.shadow{
+    box-shadow: 10px 10px;
+}
+#dfr4{
+    width: 29px;
+}
