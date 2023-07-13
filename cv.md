@@ -3,6 +3,7 @@ Contacts
 Location: TASHKENT, UZBEKISTAN
 Phone: +998 90 9187094
 Email: mirzamuhamedovi@gmail.com
+https://github.com/Mirzamukhamedov232/rsschool-cv
 
 About Me
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
